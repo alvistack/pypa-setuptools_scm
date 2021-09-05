@@ -1,0 +1,5 @@
+python-setuptools-scm (100:6.4.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/setuptools_scm/releases/tag/v6.4.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 18 Jan 2022 08:35:13 +0800
