@@ -1,0 +1,3 @@
+python-setuptools-scm source: no-debian-changes
+python-setuptools-scm source: source-contains-prebuilt-windows-binary
+python-setuptools-scm source: source-package-encodes-python-version
