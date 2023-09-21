@@ -1,0 +1,5 @@
+python-setuptools-scm (100:8.0.1-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/setuptools_scm/releases/tag/v8.0.1
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 21 Sep 2023 12:29:31 +0800

@@ -17,6 +17,7 @@ backend-path = [
 
 [project]
 name = "setuptools-scm"
+version = "8.0.1"
 description = "the blessed package to manage your versions by scm tags"
 readme = "README.md"
 license.file = "LICENSE"
@@ -38,9 +39,6 @@ classifiers = [
   "Topic :: Software Development :: Version Control",
   "Topic :: System :: Software Distribution",
   "Topic :: Utilities",
-]
-dynamic = [
-  "version",
 ]
 dependencies = [
   'importlib-metadata>=4.6; python_version < "3.10"',
@@ -70,8 +68,6 @@ toml = [
 ]
 [project.urls]
 repository = "https://github.com/pypa/setuptools_scm/"
-[project.entry-points."distutils.setup_keywords"]
-use_scm_version = "setuptools_scm._integration.setuptools:version_keyword"
 [project.entry-points."setuptools.file_finders"]
 setuptools_scm = "setuptools_scm._file_finders:find_files"
 [project.entry-points."setuptools.finalize_distribution_options"]
