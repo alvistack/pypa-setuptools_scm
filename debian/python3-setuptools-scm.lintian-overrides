@@ -1,0 +1,4 @@
+python3-setuptools-scm: copyright-without-copyright-notice
+python3-setuptools-scm: initial-upload-closes-no-bugs
+python3-setuptools-scm: no-manual-page
+python3-setuptools-scm: zero-byte-file-in-doc-directory
