@@ -14,6 +14,7 @@ backend-path = [
 
 [project]
 name = "setuptools-scm"
+version = "8.3.0"
 description = "the blessed package to manage your versions by scm tags"
 readme = "README.md"
 license.file = "LICENSE"
@@ -37,9 +38,6 @@ classifiers = [
   "Topic :: Software Development :: Version Control",
   "Topic :: System :: Software Distribution",
   "Topic :: Utilities",
-]
-dynamic = [
-  "version",
 ]
 dependencies = [
   "packaging>=20",
