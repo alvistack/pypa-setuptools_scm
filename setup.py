@@ -48,7 +48,7 @@ def scm_version() -> str:
 
 if __name__ == "__main__":
     setuptools.setup(
-        version=scm_version(),
+        version="7.1.0",
         extras_require={
             "toml": [
                 "setuptools>=42",
